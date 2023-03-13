@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿namespace Login.Models;
 
-namespace Login.Models;
-
-public partial class User
+public class User
 {
     public string Username { get; set; } = null!;
 

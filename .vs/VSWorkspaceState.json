@@ -3,8 +3,10 @@
     "",
     "\\Views",
     "\\Views\\Account",
-    "\\Views\\Home"
+    "\\Views\\Home",
+    "\\wwwroot",
+    "\\wwwroot\\css"
   ],
-  "SelectedNode": "\\Views\\Home\\Index.cshtml",
+  "SelectedNode": "\\Login.sln",
   "PreviewInSolutionExplorer": false
 }

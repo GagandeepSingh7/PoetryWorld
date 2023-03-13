@@ -1,178 +1,92 @@
-C:\Users\gagan\source\repos\Login\obj\Debug\net6.0\Login.csproj.AssemblyReference.cache
-C:\Users\gagan\source\repos\Login\obj\Debug\net6.0\Login.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\gagan\source\repos\Login\obj\Debug\net6.0\Login.AssemblyInfoInputs.cache
-C:\Users\gagan\source\repos\Login\obj\Debug\net6.0\Login.AssemblyInfo.cs
-C:\Users\gagan\source\repos\Login\obj\Debug\net6.0\Login.csproj.CoreCompileInputs.cache
-C:\Users\gagan\source\repos\Login\obj\Debug\net6.0\Login.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\gagan\source\repos\Login\obj\Debug\net6.0\Login.RazorAssemblyInfo.cache
-C:\Users\gagan\source\repos\Login\obj\Debug\net6.0\Login.RazorAssemblyInfo.cs
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\appsettings.json
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Login.staticwebassets.runtime.json
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Login.exe
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Login.deps.json
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Login.runtimeconfig.json
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Login.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Login.pdb
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Azure.Core.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Azure.Identity.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Humanizer.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Mono.TextTemplating.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\System.CodeDom.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\System.Drawing.Common.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\System.Memory.Data.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\System.Runtime.Caching.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\System.Security.Permissions.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\System.Text.Encodings.Web.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\System.Text.Json.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\System.Windows.Extensions.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\gagan\source\repos\Login\obj\Debug\net6.0\staticwebassets\msbuild.Login.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\gagan\source\repos\Login\obj\Debug\net6.0\staticwebassets\msbuild.build.Login.props
-C:\Users\gagan\source\repos\Login\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Login.props
-C:\Users\gagan\source\repos\Login\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Login.props
-C:\Users\gagan\source\repos\Login\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\gagan\source\repos\Login\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\gagan\source\repos\Login\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\gagan\source\repos\Login\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\gagan\source\repos\Login\obj\Debug\net6.0\scopedcss\bundle\Login.styles.css
-C:\Users\gagan\source\repos\Login\obj\Debug\net6.0\scopedcss\projectbundle\Login.bundle.scp.css
-C:\Users\gagan\source\repos\Login\obj\Debug\net6.0\Login.csproj.CopyComplete
-C:\Users\gagan\source\repos\Login\obj\Debug\net6.0\Login.dll
-C:\Users\gagan\source\repos\Login\obj\Debug\net6.0\refint\Login.dll
-C:\Users\gagan\source\repos\Login\obj\Debug\net6.0\Login.pdb
-C:\Users\gagan\source\repos\Login\obj\Debug\net6.0\Login.genruntimeconfig.cache
-C:\Users\gagan\source\repos\Login\obj\Debug\net6.0\ref\Login.dll
-C:\Users\gagan\source\repos\Login\bin\Debug\net6.0\Newtonsoft.Json.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\appsettings.Development.json
-D:\WORK\Poetry-World\bin\Debug\net6.0\appsettings.json
-D:\WORK\Poetry-World\bin\Debug\net6.0\Login.staticwebassets.runtime.json
-D:\WORK\Poetry-World\bin\Debug\net6.0\Login.exe
-D:\WORK\Poetry-World\bin\Debug\net6.0\Login.deps.json
-D:\WORK\Poetry-World\bin\Debug\net6.0\Login.runtimeconfig.json
-D:\WORK\Poetry-World\bin\Debug\net6.0\Login.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Login.pdb
-D:\WORK\Poetry-World\bin\Debug\net6.0\Azure.Core.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Azure.Identity.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Humanizer.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Mono.TextTemplating.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\Newtonsoft.Json.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\System.CodeDom.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\System.Drawing.Common.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\System.Memory.Data.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\System.Runtime.Caching.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\System.Security.Permissions.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\System.Text.Encodings.Web.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\System.Text.Json.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\System.Windows.Extensions.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
-D:\WORK\Poetry-World\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-D:\WORK\Poetry-World\obj\Debug\net6.0\Login.csproj.AssemblyReference.cache
-D:\WORK\Poetry-World\obj\Debug\net6.0\Login.GeneratedMSBuildEditorConfig.editorconfig
-D:\WORK\Poetry-World\obj\Debug\net6.0\Login.AssemblyInfoInputs.cache
-D:\WORK\Poetry-World\obj\Debug\net6.0\Login.AssemblyInfo.cs
-D:\WORK\Poetry-World\obj\Debug\net6.0\Login.csproj.CoreCompileInputs.cache
-D:\WORK\Poetry-World\obj\Debug\net6.0\Login.MvcApplicationPartsAssemblyInfo.cache
-D:\WORK\Poetry-World\obj\Debug\net6.0\Login.RazorAssemblyInfo.cache
-D:\WORK\Poetry-World\obj\Debug\net6.0\Login.RazorAssemblyInfo.cs
-D:\WORK\Poetry-World\obj\Debug\net6.0\staticwebassets\msbuild.Login.Microsoft.AspNetCore.StaticWebAssets.props
-D:\WORK\Poetry-World\obj\Debug\net6.0\staticwebassets\msbuild.build.Login.props
-D:\WORK\Poetry-World\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Login.props
-D:\WORK\Poetry-World\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Login.props
-D:\WORK\Poetry-World\obj\Debug\net6.0\staticwebassets.pack.json
-D:\WORK\Poetry-World\obj\Debug\net6.0\staticwebassets.build.json
-D:\WORK\Poetry-World\obj\Debug\net6.0\staticwebassets.development.json
-D:\WORK\Poetry-World\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-D:\WORK\Poetry-World\obj\Debug\net6.0\scopedcss\bundle\Login.styles.css
-D:\WORK\Poetry-World\obj\Debug\net6.0\scopedcss\projectbundle\Login.bundle.scp.css
-D:\WORK\Poetry-World\obj\Debug\net6.0\Login.csproj.CopyComplete
-D:\WORK\Poetry-World\obj\Debug\net6.0\Login.dll
-D:\WORK\Poetry-World\obj\Debug\net6.0\refint\Login.dll
-D:\WORK\Poetry-World\obj\Debug\net6.0\Login.pdb
-D:\WORK\Poetry-World\obj\Debug\net6.0\Login.genruntimeconfig.cache
-D:\WORK\Poetry-World\obj\Debug\net6.0\ref\Login.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\appsettings.json
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Login.staticwebassets.runtime.json
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Login.exe
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Login.deps.json
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Login.runtimeconfig.json
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Login.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Login.pdb
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Humanizer.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\MailKit.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\MimeKit.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\obj\Debug\net6.0\Login.csproj.AssemblyReference.cache
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\obj\Debug\net6.0\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\obj\Debug\net6.0\Login.AssemblyInfoInputs.cache
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\obj\Debug\net6.0\Login.AssemblyInfo.cs
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\obj\Debug\net6.0\Login.csproj.CoreCompileInputs.cache
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\obj\Debug\net6.0\Login.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\obj\Debug\net6.0\Login.RazorAssemblyInfo.cache
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\obj\Debug\net6.0\Login.RazorAssemblyInfo.cs
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\obj\Debug\net6.0\staticwebassets\msbuild.Login.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\obj\Debug\net6.0\staticwebassets\msbuild.build.Login.props
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Login.props
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Login.props
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\obj\Debug\net6.0\scopedcss\bundle\Login.styles.css
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\obj\Debug\net6.0\scopedcss\projectbundle\Login.bundle.scp.css
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\obj\Debug\net6.0\Login.csproj.CopyComplete
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\obj\Debug\net6.0\Login.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\obj\Debug\net6.0\refint\Login.dll
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\obj\Debug\net6.0\Login.pdb
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\obj\Debug\net6.0\Login.genruntimeconfig.cache
+C:\Users\gagan\source\repos\FRONT END\Poetry-World\obj\Debug\net6.0\ref\Login.dll

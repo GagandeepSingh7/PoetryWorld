@@ -1,4 +1,4 @@
-﻿@model Login.Models.Employee
+﻿@model Employee
 
 @{
     Layout = null;
@@ -12,7 +12,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!--===============================================================================================-->
-    <link rel="icon" type="image/png" href="images/icons/favicon.ico" />
+    <link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
     <!--===============================================================================================-->
     <link rel="stylesheet" type="text/css" href="/lib/bootstrap/dist/css/bootstrap.min.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
@@ -35,109 +35,105 @@
     <link rel="stylesheet" type="text/css" href="css/main.css">
     <!--===============================================================================================-->
 </head>
-<body style="background-color: #666666;" >
+<body style="background-color: #666666;">
 
-    <div class="limiter">
-        <div class="container-login100">
-            <div class="wrap-login100">
-                <div class="login100-form validate-form">
-                    @if(ViewBag.message!=null)
-                    {
-                        <div style="text-align:center; display: block;color: #c80000;
-                                    background-color:lightblue;font-size: 16px;text-align: center;
-                                    " class="text-danger alert-validate-after">
-                            @ViewBag.message
+<div class="limiter">
+    <div class="container-login100">
+        <div class="wrap-login100">
+            <div class="login100-form validate-form">
+                @if (ViewBag.message != null)
+                {
+                    <div style="background-color: lightblue; color: #c80000; display: block; font-size: 16px; text-align: center; text-align: center;" class="text-danger alert-validate-after">
+                        @ViewBag.message
+                    </div>
+                }
+                @if (ViewBag.ErrorMessage != null)
+                {
+                    <div style="background-color: lightblue; color: #c80000; display: block; font-size: 16px; text-align: center; text-align: center;"class="text-danger alert-validate-after">
+                        @ViewBag.ErrorMessage
+                    </div>
+                }
+
+                @using (Html.BeginForm("Index", "Home", FormMethod.Post))
+                {
+                    <span class="login100-form-title p-b-43">
+                        Login to continue
+                    </span>
+
+
+                    <div class="wrap-input100 validate-input" data-validate="Please Enter Correct Email">
+                        @*<input class="input100" type="text" name="email">*@
+                        @Html.TextBoxFor(m => m.Username, new { @class = "input100", autocomplete = "off", type = "Email", name = "email" })
+                        <span class="focus-input100"></span>
+                        <span class="label-input100">Email</span>
+                    </div>
+
+
+                    <div class="wrap-input100 validate-input" data-validate="Password is required">
+                        @*<input class="input100" type="password" name="pass">*@
+                        @Html.PasswordFor(m => m.Password, new { @class = "input100", autocomplete = "off", type = "password", name = "pass" })
+                        <span class="focus-input100"></span>
+                        <span class="label-input100">Password</span>
+                    </div>
+
+                    <div class="flex-sb-m w-full p-t-3 p-b-20 pt-4">
+                        <div class="contact100-form-checkbox">
+                            <input class="input-checkbox100" id="ckb1" type="checkbox" name="remember-me">
+                            <label class="label-checkbox100" for="ckb1">
+                                Remember me
+                            </label>
                         </div>
-                    }
-                    @if (ViewBag.ErrorMessage != null)
-                    {
-                        <div style="text-align:center; display: block;color: #c80000;
-                                    background-color:lightblue;font-size: 16px;text-align: center;
-                                    "class="text-danger alert-validate-after">@ViewBag.ErrorMessage
-                        </div>
-                    }
-                
-                    @using (Html.BeginForm("Index", "Home", FormMethod.Post))
-                    {
-                        <span class="login100-form-title p-b-43">
-                            Login to continue
-                        </span>
 
-
-                        <div class="wrap-input100 validate-input" data-validate="Please Enter Correct Email" >
-                            @*<input class="input100" type="text" name="email">*@
-                            @Html.TextBoxFor(m=>m.Username,new{@class="input100",autocomplete = "off", @type="Email", @name="email"})
-                            <span class="focus-input100"></span>
-                            <span class="label-input100">Email</span>
-                        </div>
-
-
-                        <div class="wrap-input100 validate-input" data-validate="Password is required">
-                            @*<input class="input100" type="password" name="pass">*@
-                            @Html.PasswordFor(m=>m.Password,new{@class="input100",autocomplete = "off",@type="password",@name="pass"})
-                            <span class="focus-input100"></span>
-                            <span class="label-input100">Password</span>
-                        </div>
-
-                        <div class="flex-sb-m w-full p-t-3 p-b-20 pt-4">
-                            <div class="contact100-form-checkbox">
-                                <input class="input-checkbox100" id="ckb1" type="checkbox" name="remember-me">
-                                <label class="label-checkbox100" for="ckb1">
-                                    Remember me
-                                </label>
-                            </div>
-
-                            <div>
-                                <a href="#" class="txt1">
+                        <div>
+                            <button>
+                                <a onclick="location.href='@Url.Action("Password", "Password")'">
                                     Forgot Password?
                                 </a>
-                            </div>
-                        </div>
-
-
-                        <div class="container-login100-form-btn pt-4">
-                            <button class="login100-form-btn" type="submit" >
-                                Login
                             </button>
                         </div>
-                        <br />
-                        <div class="container-login100-form-btn">
-                            <button type="button" class="login100-form-btn " onclick="location.href='@Url.Action("Register","Account")'">Register</button>
+                    </div>
 
-                        </div>
-                        
-                    }
-                </div>
 
-                <div class="login100-more img-fluid " background="hawk.png">
-                 
-                </div>
+                    <div class="container-login100-form-btn pt-4">
+                        <button class="login100-form-btn" type="submit">
+                            Login
+                        </button>
+                    </div>
+                    <br/>
+                    <div class="container-login100-form-btn">
+                        <button type="button" class="login100-form-btn " onclick="location.href='@Url.Action("Register", "Account")'">Register</button>
+
+                    </div>
+                }
+            </div>
+
+            <div class="login100-more img-fluid " background="hawk.png">
+
             </div>
         </div>
     </div>
+</div>
 
 
-
-
-    <!--===============================================================================================-->
-    <script src="~/lib/jquery/dist/jquery-3.2.1.min.js"></script>
-    <!--===============================================================================================-->
-    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
-    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
-    <!--===============================================================================================-->
-    <script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
-    <!--===============================================================================================-->
-    <script src="~/lib/select2/select2.min.js"></script>
-    <script src="~/lib/select2/select2.js"></script>
-    <!--===============================================================================================-->
-    <script src="~/lib/daterangepicker/moment.min.js"></script>
-    <script src="~/lib/daterangepicker/moment.js"></script>
-    <script src="~/lib/daterangepicker/daterangepicker.js"></script>
-    <!--===============================================================================================-->
-    <script src="~/lib/countdowntime/countdowntime.js"></script>
-    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-    <!--===============================================================================================-->
-    <script src="~/js/main.js"></script>
+<!--===============================================================================================-->
+<script src="~/lib/jquery/dist/jquery-3.2.1.min.js"></script>
+<!--===============================================================================================-->
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+<!--===============================================================================================-->
+<script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+<!--===============================================================================================-->
+<script src="~/lib/select2/select2.min.js"></script>
+<script src="~/lib/select2/select2.js"></script>
+<!--===============================================================================================-->
+<script src="~/lib/daterangepicker/moment.min.js"></script>
+<script src="~/lib/daterangepicker/moment.js"></script>
+<script src="~/lib/daterangepicker/daterangepicker.js"></script>
+<!--===============================================================================================-->
+<script src="~/lib/countdowntime/countdowntime.js"></script>
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<!--===============================================================================================-->
+<script src="~/js/main.js"></script>
 </body>
 </html>

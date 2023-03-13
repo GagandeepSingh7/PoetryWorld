@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WORK\\Poetry-World\\Login.csproj": {}
+    "C:\\Users\\gagan\\source\\repos\\FRONT END\\Poetry-World\\Login.csproj": {}
   },
   "projects": {
-    "D:\\WORK\\Poetry-World\\Login.csproj": {
+    "C:\\Users\\gagan\\source\\repos\\FRONT END\\Poetry-World\\Login.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WORK\\Poetry-World\\Login.csproj",
+        "projectUniqueName": "C:\\Users\\gagan\\source\\repos\\FRONT END\\Poetry-World\\Login.csproj",
         "projectName": "Login",
-        "projectPath": "D:\\WORK\\Poetry-World\\Login.csproj",
+        "projectPath": "C:\\Users\\gagan\\source\\repos\\FRONT END\\Poetry-World\\Login.csproj",
         "packagesPath": "C:\\Users\\gagan\\.nuget\\packages\\",
-        "outputPath": "D:\\WORK\\Poetry-World\\obj\\",
+        "outputPath": "C:\\Users\\gagan\\source\\repos\\FRONT END\\Poetry-World\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gagan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.2, )"

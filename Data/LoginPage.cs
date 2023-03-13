@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿namespace Login.Data;
 
-namespace Login.Data;
-
-public partial class LoginPage
+public class LoginPage
 {
     public string Username { get; set; } = null!;
 
